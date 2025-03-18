@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Name : satya Pathak
+=======
+Name : shreya
+>>>>>>> 12ac26590e70f9b1624f79f719b68fee975de8b0
 Address : Ghaziabad
 phone : 5378358962587933
